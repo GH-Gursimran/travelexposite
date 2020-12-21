@@ -17,7 +17,7 @@ module.exports = {
     author: "@agumjunianto",
     twitterUsername: "@agumjun",
     image: "/defaultBcg.jpeg",
-    siteUrl: "https://gatsby-travel-site.netlify.com",
+    siteUrl: "https://practical-lamport-badbf3.netlify.app/",
   },
 
   plugins: [
